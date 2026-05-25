@@ -12,6 +12,6 @@ def PI(iterations):
     return 4 * digit 
 
 if __name__ == "__main__":
-    iterations = 10000000
+    iterations = 1000000
     digit = PI(iterations)
     print(digit)
